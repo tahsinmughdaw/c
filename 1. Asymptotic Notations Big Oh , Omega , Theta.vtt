@@ -1,0 +1,367 @@
+WEBVTT
+
+00:01.370 --> 00:09.330
+In this video we'll talk about asymptotic notations CVA have seen various algorithms for various functions
+
+00:09.360 --> 00:12.050
+and various operations on data structures.
+
+00:12.060 --> 00:20.010
+We got to define complexities in various forms like we go to define complexity as one that is constant
+
+00:20.160 --> 00:24.950
+and sometimes regarded as log in and sometimes an hour in Logan.
+
+00:24.950 --> 00:25.520
+So on
+
+00:28.340 --> 00:37.540
+for example inserting an element in a queue that is NQ or push it was taking Constantine searching in
+
+00:37.540 --> 00:44.000
+a binary so if you're able to read what's taking log in time searching an element in an early
+
+00:47.430 --> 00:50.550
+finding the maximum element in an array order link list.
+
+00:51.090 --> 00:58.830
+It was taking maximum order of time then and the log in the fourth most sort or quick thought best case
+
+00:58.830 --> 01:03.020
+of quick sort then and squared.
+
+01:03.130 --> 01:07.280
+That is Maddox are also in the graphs.
+
+01:07.370 --> 01:13.590
+Time was dependent on the map maps the stoop over an intriguing caution we get this one so to Boren.
+
+01:13.600 --> 01:15.190
+Or it may be up to inboard.
+
+01:15.550 --> 01:20.290
+So this portion this time complexities aren't called as exponential time complexities
+
+01:24.890 --> 01:30.710
+and these strange complexities are called as polynomial time complexities These are called as polynomial
+
+01:32.550 --> 01:38.580
+so all those trying complexities I have arranged them in the increasing order of their value C N squared
+
+01:38.580 --> 01:45.670
+value will be greater than in Logan and Logan will be greater than an RSA log Logan is less than N and
+
+01:45.690 --> 01:50.900
+is less than in Logan for some values often don't start in from 0 1.
+
+01:50.910 --> 01:53.010
+Don't say if I put zero all are equal only.
+
+01:53.010 --> 01:54.780
+No don't take that.
+
+01:54.780 --> 02:03.930
+If I take ten they are equal no don't take ten also you take larger value right so the starting value
+
+02:03.930 --> 02:10.080
+of and not need not be 0 or 1 it can be any starting value.
+
+02:10.080 --> 02:14.520
+But beyond that say let us say zero to infinity.
+
+02:14.520 --> 02:18.750
+So from Richman pointed to starting from there to infinity.
+
+02:18.750 --> 02:25.770
+If someone is greater than we say it is a greater like for example I have and cube.
+
+02:26.280 --> 02:31.010
+And to what end is the greater good part it is much greater than any cube.
+
+02:31.010 --> 02:32.960
+How if I take two.
+
+02:33.150 --> 02:37.200
+So then this is two cubes eight and his two squares form.
+
+02:37.200 --> 02:39.310
+See if there's a two.
+
+02:39.330 --> 02:41.980
+Then how come it has a greater sort on Dec. 2.
+
+02:43.890 --> 02:45.040
+Take 10.
+
+02:45.060 --> 02:45.920
+So thank you.
+
+02:45.920 --> 02:50.910
+This in Dubai over 10 as one zero move forward.
+
+02:50.980 --> 02:53.160
+All this has become OK.
+
+02:53.280 --> 02:54.800
+LEMON cube you dig.
+
+02:54.810 --> 03:05.130
+So this may be one two to one and this will be to over Lemonis 2 0 4 8 seed does doubled of this fun
+
+03:05.410 --> 03:09.970
+search much bigger so don't take small values often right.
+
+03:10.020 --> 03:12.870
+So find some value often that is greater.
+
+03:12.900 --> 03:17.610
+So we have arranged them in increasing order of their values or village.
+
+03:17.700 --> 03:21.800
+Now next thing see what all the lot of them we have it analyzed.
+
+03:21.810 --> 03:27.510
+We were getting the time complexities like bind function to getting does and so you're gonna get us
+
+03:27.600 --> 03:33.510
+out of n some time we were getting As and square so and square.
+
+03:33.510 --> 03:38.400
+We did not analyze the code line by line we were writing the bank complex it is based on the work done
+
+03:38.800 --> 03:43.310
+so that actually getting these values some time analyzer function.
+
+03:43.320 --> 03:47.940
+Suppose you've got the time complexity as if often is equals 2 sigma.
+
+03:48.040 --> 03:53.950
+I by takes values from one to homogeneous homogeneous us.
+
+03:54.130 --> 04:01.540
+This is our drive and so you should know mathematical form of dysfunction.
+
+04:01.590 --> 04:04.950
+He should know how to simplify and get a single value for this one.
+
+04:05.280 --> 04:17.580
+So if I expand this it will be up to our growth and not suppose it is F of N in 2 sigma i.e. in bu bu
+
+04:17.580 --> 04:23.040
+but I'm IBEX values from 1 to 10 how to solve this.
+
+04:23.070 --> 04:28.410
+So if you know the mathematical expansion of the Sigma then this is nothing but one plus two plus three
+
+04:28.410 --> 04:37.710
+plus goes on to n this is what an enduring plus one might do then how much this is and square in order
+
+04:37.710 --> 04:41.370
+of in square there's enough pain function.
+
+04:41.560 --> 04:51.450
+Now suppose the pain function is like this Sigma by x values from 1 to N I introduced what I expanders
+
+04:51.540 --> 04:53.820
+and get a single formula.
+
+04:53.820 --> 04:56.950
+This is difficult to get we can't get exact formula.
+
+04:57.090 --> 04:59.640
+We have to get the approximate formula.
+
+04:59.730 --> 05:02.910
+So by solving this one we get approximate.
+
+05:02.910 --> 05:10.590
+So this is enough for me to explain you that if you are getting a tiny function in some form which cannot
+
+05:10.590 --> 05:17.060
+be simplified in terms of n directly then you cannot give the time complexity.
+
+05:17.270 --> 05:23.170
+You cannot mention the time if you cannot get in this form polynomial of end.
+
+05:23.330 --> 05:24.540
+Exactly.
+
+05:24.680 --> 05:35.150
+If you are getting approximate then if that approximation is lower value or a higher value so the result
+
+05:35.150 --> 05:41.750
+of a function in the form of a polynomial is that the polynomial load of value or a higher value is
+
+05:41.750 --> 05:42.810
+not exact.
+
+05:42.830 --> 05:44.490
+So which one you are taking.
+
+05:44.510 --> 05:49.520
+So if you are taking lower value then you can say Oh my God.
+
+05:50.180 --> 05:55.430
+If you are taking a put a value then you can see big oil.
+
+05:55.460 --> 06:01.500
+If you are taking exact value then we see t DA.
+
+06:01.620 --> 06:08.570
+These are the notations these notations are lower bound upper bound.
+
+06:09.740 --> 06:16.970
+These notations are lower bound upper bound and tight bond so lower bound is
+
+06:21.680 --> 06:24.050
+Omega upper bound as
+
+06:27.140 --> 06:33.130
+we go tight bond is to them.
+
+06:34.660 --> 06:37.570
+So we have these three notations hues.
+
+06:37.810 --> 06:45.230
+These are useful in the situations when you cannot get the exact polynomial for our formula for a function.
+
+06:45.460 --> 06:50.710
+Then you can go for Beagle more if you are not interested in analyzing this one at the Morse.
+
+06:50.710 --> 06:53.810
+This will be an input to our end.
+
+06:54.580 --> 07:03.350
+Yes you can see that is dwarfed and in the two bottom upper bond big on rotation and Omega.
+
+07:03.620 --> 07:09.460
+So ignoring this it may be too poor and too poor in Omega.
+
+07:09.480 --> 07:11.250
+So you're taking Lord bond.
+
+07:11.850 --> 07:13.000
+So then we prefer a.
+
+07:13.040 --> 07:18.210
+But when we go for lower on the bottom on when you can try and bite bond if you said no I can solve
+
+07:18.210 --> 07:23.490
+this by using integration and limits on integration by using integration by parts.
+
+07:23.520 --> 07:29.520
+I can get the exact value if you see that if you say that then you can go 40 down.
+
+07:29.550 --> 07:32.100
+Suppose that he dies and then Google bought it.
+
+07:33.360 --> 07:36.510
+So this is your exact function.
+
+07:36.600 --> 07:39.910
+So when you have exact function you use takeoff.
+
+07:40.170 --> 07:45.210
+If you don't know if you're not sure and you are taking up the bottom say Beagle.
+
+07:45.240 --> 07:52.380
+So mostly we use beagle to say that at a most C whenever you are talking about any expenses of the time
+
+07:52.800 --> 07:58.870
+we say it was this much it was this much so we want to know the idea that is an upper limit.
+
+07:58.870 --> 08:04.150
+So what is the upper bound if you know an upper bound and we can do that work feasible I want to buy
+
+08:04.150 --> 08:11.650
+a mobile phone if you say 2000 Indian rupees this minimum amount one like many one lakh Indian rupees
+
+08:11.830 --> 08:17.260
+some maximum amount so then you want to know how much is the cost of any mobile phone.
+
+08:17.260 --> 08:20.950
+Which one you are interested in knowing at the most right at most.
+
+08:20.950 --> 08:22.120
+Not beyond one lac.
+
+08:22.240 --> 08:23.000
+OK fine.
+
+08:24.810 --> 08:29.690
+So unless you can get it most of the time we prefer upper bound.
+
+08:29.820 --> 08:30.360
+Right.
+
+08:30.360 --> 08:33.680
+So that's why we go for because notation right.
+
+08:33.940 --> 08:40.650
+So I was not using any of these notations I was saying order and some more industrial notation why I
+
+08:40.650 --> 08:46.020
+was not interested in notation in all the examples we have seen in all the topics.
+
+08:46.040 --> 08:53.310
+A reason I was always getting paid Bond I was getting the equation the formula exact formulated was
+
+08:53.310 --> 08:54.710
+not approximate.
+
+08:54.940 --> 09:01.220
+It is not approximate so rarely you come across a situation where you need approximate in algorithms
+
+09:01.230 --> 09:05.660
+it's not a common situation that analysis will give you approximate results.
+
+09:05.670 --> 09:06.450
+No.
+
+09:06.540 --> 09:11.460
+Most of the time you get exact results that he can go for a long.
+
+09:11.460 --> 09:15.580
+So when I was seeing order off that was Tito.
+
+09:15.840 --> 09:21.630
+But on the safe side mostly we say Beagle so in the textbooks everywhere you find it is beagle.
+
+09:21.640 --> 09:30.760
+The reason of using Beagle and to see if support is a function f often s big off and as the last function
+
+09:30.760 --> 09:37.000
+f often is coming off and then we say f all fairness take off.
+
+09:37.000 --> 09:48.280
+And so it means this is a big off and s not just apparently equal or a I many guys equal or lower among
+
+09:48.620 --> 09:49.780
+men you got TTR.
+
+09:50.020 --> 09:57.980
+You can also use big oil because bigotry prevents equal upper so that's why big words commonly use.
+
+09:58.310 --> 10:04.210
+So now you can convert all of them all the time complexes that we got in the form of Tita or beagle
+
+10:04.280 --> 10:06.030
+that is upon your requirements.
+
+10:06.070 --> 10:09.230
+All you need it and one last thing.
+
+10:09.280 --> 10:15.010
+See these are the normal time complexities we understand how the algorithm may be working if you to
+
+10:15.000 --> 10:20.890
+got a line analytical reserved in some other form which you cannot produce in this form then you will
+
+10:20.890 --> 10:29.500
+select any one of these that is upper bound or lower but if it can be shown like this then you can go
+
+10:29.500 --> 10:30.150
+for table
+
+10:32.780 --> 10:35.840
+so that's all about a symbiotic notations.
